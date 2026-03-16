@@ -33,6 +33,5 @@ High-performance Software Engineer specializing in **scalable cloud-native backe
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Pranav Bagve](your-linkedin-url)
-- **Portfolio:** [your-portfolio-link.com]
+- **LinkedIn:** www.linkedin.com/in/pranav-bagve
 - **Email:** pranavbagve3055@gmail.com
