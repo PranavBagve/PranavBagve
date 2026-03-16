@@ -27,8 +27,8 @@ High-performance Software Engineer specializing in **scalable cloud-native backe
 ---
 
 ### 📊 GitHub Stats
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavBagve&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavBagve&layout=compact&theme=radical)
 
 ---
 
