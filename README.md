@@ -1,6 +1,6 @@
 # Hi there, I'm Pranav 👋 
 
-### Lead Software Engineer | 3.5+ Years Exp | Python, AWS and React Native 
+### Senior Software Engineer | 3.5+ Years Exp | Python, AWS and React Native 
 
 High-performance Software Engineer specializing in **scalable cloud-native backends** and **cross-platform ecosystems**. I thrive at the intersection of robust architecture and product delivery, recently spearheading the launch of the **Jii SaaS Marketplace** (Web, iOS, & Android).
 
