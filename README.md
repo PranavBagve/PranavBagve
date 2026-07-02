@@ -78,7 +78,7 @@ High-performance Software Engineer specializing in **scalable cloud-native backe
 
 ### 🌟 RESTREAT — Multi-Tenant Hospitality Operations & POS SaaS
 *Architected and deployed a production-grade, zero-fixed-infrastructure B2B SaaS platform engineered for real-time premises order management.*
-- **Live Platform:** [https://www.restreat.com/](https://www.restreat.com/)
+- **Live Platform:** [RESTREAT](https://www.restreat.com/)
 - **Architecture & Low-Latency:** Engineered bi-directional event data streams using Supabase Realtime (WebSockets), achieving sub-500ms global synchronization across waiter handsets and Kitchen Display Systems (KDS).
 - **Ironclad Isolation:** Enforced structural multi-tenancy at the data layer utilizing strict server-side PostgreSQL Row-Level Security (RLS) filters globally derived via user JWT contexts.
 - **Offline Resilience Engine:** Built an asynchronous FIFO transaction queue wrapper over IndexedDB to safely capture local mutations during network drops and automatically reconcile state upon reconnection.
@@ -87,7 +87,7 @@ High-performance Software Engineer specializing in **scalable cloud-native backe
 
 ### 🚀 Jii — SaaS Marketplace Ecosystem
 *Architected and launched a production-grade marketplace for 1,000+ users.*
-- **Live Links:** [Web Application](https://www.jiiapp.com/) | [iOS App Store](https://apps.apple.com/in/app/jii/id6756066462) | [Android Play Store](https://play.google.com/store/apps/details?id=com.jii.app) *(<- Replace placeholders with actual URLs)*
+- **Live Links:** [Web Application](https://www.jiiapp.com/) | [iOS App Store](https://apps.apple.com/in/app/jii/id6756066462) | [Android Play Store](https://play.google.com/store/apps/details?id=com.jii.app)
 - **Shared Backend:** Unified FastAPI/AWS system serving Web, iOS, and Android platforms.
 - **Scalability:** Devised an event-driven architecture using SQS/SNS, reducing cross-platform communication latency by 35%.
 - **Security:** Implemented enterprise-grade AWS Cognito authentication with secure JWT and RBAC.
@@ -102,5 +102,5 @@ High-performance Software Engineer specializing in **scalable cloud-native backe
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [www.linkedin.com/in/pranav-bagve](https://www.linkedin.com/in/pranav-bagve)
+- **LinkedIn:** [Pranav Bagve](https://www.linkedin.com/in/pranav-bagve)
 - **Email:** pranavbagve3055@gmail.com
