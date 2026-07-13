@@ -66,11 +66,6 @@ Built modular test-automation frameworks (C#/.NET, Python), CI/CD pipelines, and
 
 ---
 
-## 📊 GitHub Stats
-![My GitHub Stats](images/userstats.svg)
-
----
-
 ## 📫 Let's Connect
 - **LinkedIn:** [pranavbagve](https://www.linkedin.com/in/pranav-bagve)
 - **Email:** pranavbagve3055@gmail.com
